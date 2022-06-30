@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a05b1fc5-587c-477d-8da9-9eea4b47b1ad": {
+      "ProjectGuid": "a05b1fc5-587c-477d-8da9-9eea4b47b1ad",
+      "DisplayName": "9주차 조건에 따른 흐름의 분기",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
