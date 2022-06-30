@@ -1,3 +1,0 @@
-﻿  소스.c
-소스.obj : error LNK2005: main이(가) q_2.obj에 이미 정의되어 있습니다.
-C:\Users\고민지\Desktop\열혈c\p46_q2\x64\Debug\p46_q2.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
